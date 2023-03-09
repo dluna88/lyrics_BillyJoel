@@ -1,0 +1,37 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+body{
+    background-color:rgb(14, 14, 14);
+    color: #eeeeee;
+    font-size: 55px;
+}
+.active-line{
+    color:yellow
+}
+#content{
+    margin-bottom:500px;
+    padding:0 50px
+}
+#titulo{
+    margin-top:300px;
+}
+.nextbtn{
+    text-decoration: none;
+    position:fixed;
+    bottom: 200px;
+    right: 0;
+    padding:10px;
+    background-color: rgba(0, 0, 0, 0.582);
+    color:#858585;
+}
+.backbtn{
+    text-decoration: none;
+    position:fixed;
+    bottom: 200px;
+    left: 0;
+    padding:10px;
+    background-color: rgba(0, 0, 0, 0.582);
+    color:#858585;
+}
